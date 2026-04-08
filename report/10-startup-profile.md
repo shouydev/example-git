@@ -1,0 +1,2 @@
+# Introduccion
+En este informe se presenta un análisis detallado del perfil de inicio de una aplicación, con el objetivo de identificar áreas de mejora y optimizar el rendimiento durante el proceso de arranque. El perfil de inicio es crucial para garantizar una experiencia de usuario fluida y rápida, especialmente en aplicaciones que requieren tiempos de carga mínimos.
